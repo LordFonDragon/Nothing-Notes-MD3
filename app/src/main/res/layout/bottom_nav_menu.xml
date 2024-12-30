@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/notes"
+        android:icon="@drawable/ic_notes"
+        android:title="Notes"/>
+    <item
+        android:id="@+id/reminders"
+        android:icon="@drawable/ic_reminder"
+        android:title="Reminders"/>
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_add"
+        android:title="Add"/>
+    <item
+        android:id="@+id/tags"
+        android:icon="@drawable/ic_tag"
+        android:title="Tags"/>
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"/>
+</menu>
